@@ -74,25 +74,24 @@ def init():#COMIENZA LA PARTIDA
             init()
         elif menu ==2:#PARTIDA PvP
             tabla()
-            time.sleep(1)
             movx()
             movida()
-            movo
+            movo()
             movida() 
             movx()
             movida()
-            movo
+            movo()
             movida()
             movx()
             movida()
             corroborar()
-            movo
+            movo()
             movida()
             corroborar()
             movx()
             movida()
             corroborar()
-            movo
+            movo()
             movida()
             movx()
             movida()
